@@ -1,3 +1,8 @@
+# a comment page project made with React
+
+![alt text](https://github.com/gustaexausto/comments-page/example.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
