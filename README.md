@@ -1,4 +1,4 @@
-# a comment page project made with React
+# A comment page project made with React
 
 ![alt text](https://github.com/gustaexausto/comments-page/example.jpg)
 
