@@ -1,6 +1,6 @@
 # A comment page project made with React
 
-![alt text](https://github.com/gustaexausto/comments-page/example.jpg)
+![alt text](https://github.com/gustaexausto/comments-page/blob/main/example.jpg)
 
 
 # Getting Started with Create React App
