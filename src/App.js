@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React, { useState } from 'react';
 import './App.css';
 import Image from './img/people.svg'
